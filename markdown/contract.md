@@ -1,111 +1,100 @@
-# Contract Killer
-### The popular open-source contract for web designers and developers by [Stuff & Nonsense](http://stuffandnonsense.co.uk/)
+# Work for Hire Contract
 
-* Originally published: 23/12/2008
-* Revised date: 15/12/2013 
-* [Original post](http://stuffandnonsense.co.uk/projects/contract-killer/)
+Between us, The OpenGov Foundation ("OpenGov") and you, [your name here].
 
-* * *
+## Summary:
 
+We'll always do our best to fulfill your needs and meet your expectations, but it's important to have things written down so that we both know what's what, who should do what and when, and what will happen if something goes wrong. In this contract you won't find any complicated legal terms or long passages of unreadable text. We've no desire to trick you into signing something that you might later regret. What we do want is what's best for both parties, now and in the future.
 
-Between us [company name] 
-and you [customer name] 
+## In Short
 
-## Summary: 
+We, The OpenGov Foundation, located at 1200 18th Street NW, Suite 700, Washington, D.C. 20036, in the United States of America, are hiring you [Your Name And Address] to provide [list of services].  We will pay you [amount] for this work.  We understand that rate and total both may change if additional or less work is needed.
 
-We’ll always do our best to fulfil your needs and meet your expectations, but it’s important to have things written down so that we both know what’s what, who should do what and when, and what will happen if something goes wrong. In this contract you won’t find any complicated legal terms or long passages of unreadable text. We’ve no desire to trick you into signing something that you might later regret. What we do want is what’s best for both parties, now and in the future.
+## What do both parties agree to do?
 
-So in short;
+*[Your Name]:* You have the authority to enter into this contract on behalf of yourself, your company or your organization. You have the experience and ability to do everything we've agreed with you and you'll do it all in a professional and timely manner. You'll endeavor to meet every deadline that's set and on top of that we'll maintain the confidentiality of everything you give us.
 
-You ([customer name]), located at [customer address] are hiring us ([company name]) located at [company address] to [design and develop a web site] for the estimated total price of [total] as outlined in our previous correspondence. Of course it’s a little more complicated, but we’ll get to that.
+*The OpenGov Foundation:* We'll give you everything you need to complete the project, when and in the format you need it. We'll review your work, and provide feedback and approval in a timely manner, too. Deadlines work two ways, so we'll also be bound by dates we set together. We also agree to stick to the payment schedule set out at the end of this contract.
 
-## What do both parties agree to do? 
+## All of the Details
 
-*You:* You have the authority to enter into this contract on behalf of yourself, your company or your organisation. You’ll give us everything we need to complete the project as and when and in the format we need it. You’ll review our work, provide feedback and approval in a timely manner too. Deadlines work two ways, so you’ll also be bound by dates we set together. You also agree to stick to the payment schedule set out at the end of this contract.
+### Development
 
-*Us:* We have the experience and ability to do everything we’ve agreed with you and we’ll do it all in a professional and timely manner. We’ll endeavour to meet every deadline that’s set and on top of that we'll maintain the confidentiality of everything you give us.
+You will write the software adhering to the appropriate standards, using only known and supported technologies. Since the work we do is to support the Open Source community, everything will need to be under an Open Source license.  In most cases, everything created for us will need to be released under the [Apache 2, MIT, GPL3, etc] license.
 
-## Getting down to the nitty gritty 
-
-### Design 
-
-We create look-and-feel designs, and flexible layouts that adapt to the capabilities of many devices and screen sizes. We create designs iteratively and use predominantly HTML and CSS so we won’t waste time mocking up every template as a static visual. We may use static visuals to indicate a look-and-feel direction (colour, texture and typography.) We call that ‘design atmosphere.’
-
-You’ll have plenty of opportunities to review our work and provide feedback. We’ll share our working Dropbox with you and have regular, possibly daily contact. If, at any stage, you’re not happy with the direction our work is taking, you’ll pay us in full for everything we’ve produced until that point and cancel this contract.
-
-### Text content 
-
-We’re not responsible for writing or inputting any text copy. If you’d like us to write new content or input text for you, we can provide a separate estimate for that.
-
-### Photographs 
-
-You should supply graphic files in an editable, vector digital format. You should supply photographs in a high resolution digital format. If you choose to buy stock photographs, we can suggest stock libraries. If you’d like us to search for photographs for you, we can provide a separate estimate for that.
+We'll have opportunities to review your work and provide feedback. If, at any stage, you or we are not happy with the direction our work is taking, we'll pay you in full for everything you've produced until that point and cancel this contract.
 
 ### HTML, CSS and JavaScript
 
-We deliver web page types developed from HTML5 markup, CSS2.1 + 3 stylesheets for styling and unobtrusive JavaScript for feature detection, poly-fills and behaviours.
+We use templates developed from HTML5 markup, CSS2.1 + 3 stylesheets for styling and unobtrusive Javascript for feature detection, poly-fills, and behaviors.
 
-### Browser testing
+### Programming and Databases
 
-Browser testing no longer means attempting to make a website look the same in browsers of different capabilities or on devices with different size screens. It does mean ensuring that a person’s experience of a design should be appropriate to the capabilities of a browser or device.
+We will be storing all site code and database schema in a GitHub repo, available for public download.
 
-### Desktop browser testing
+### Browser Testing
 
-We test our work in current versions of major desktop browsers including those made by Apple (Safari), Google (Chrome), Microsoft (Internet Explorer), Mozilla Firefox and Opera. We’ll also test to ensure Microsoft Internet Explorer 9 for Windows users get an appropriate, possibly different, experience. We’ll implement a single column design for older versions of Internet Explorer and we won’t test in other older browsers unless you specify otherwise. If you need an enhanced design for an older browser, we can provide a separate estimate for that.
+Browser testing no longer means attempting to make a website look the same in browsers of different capabilities or on devices with different size screens. It does mean ensuring that a person's experience of a design should be appropriate to the capabilities of a browser or device.
 
-### Mobile browser testing
+### Desktop & Mobile Browser Testing
 
-Testing popular small-screen devices is essential in ensuring that a person’s experience of a design is appropriate to the capabilities of the device they’re using. We test our work in:
+We will test your work in current versions of Google Chrome, Firefox, Internet Explorer, and Safari. We don't expect everything to work perfectly in all other browsers, but we may employ you to help us add support for other platforms, for an additional fee.
 
-iOS: Safari, Google Chrome 
-Android 4.x: Google Chrome and Firefox
+### Technical Support
 
-We currently don’t test Blackberry, Opera Mini/Mobile, Windows Phone or other mobile browsers. If you need us to test using these, we can provide a separate estimate for that.
+We will manage the hosting and setup of the application on our servers – but we may ask for advice along the way.  If additional time is needed here for you to help us with that, we'll pay you for that time.
 
-### Technical support
+### Warranties and Limitations
 
-We’re not a website hosting company so we don’t offer support for website hosting, email or other services relating to hosting. You may already have professional hosting and you might even manage that hosting in-house; if you do, great. If you don’t, we can set up an account for you at one of our preferred hosting providers. We can set up your site on a server, plus any statistics software such as Google Analytics and we can provide a separate estimate for that. Then, the updates to, and management of that server will be up to you. 
+Although we know you will do your best to make sure that your software is completely bug-free, occasionally issues are found after launch.  You will provide fixes for any issues discovered as quickly as you are able to get to them.  Generally, we assume this will come at no additional cost to us, but you will be sure to tell us if the issues are outside the scope of what you can do for free.
 
-### Changes and revisions 
+### Changes and Revisions
 
-We know from experience that fixed-price contracts are rarely beneficial to you, as they often limit you to your earliest ideas. We don’t want to limit your ability to change your mind. The price at the beginning of this contract is based on the length of time we estimate we’ll need to accomplish everything you’ve told us you want to achieve, but we’re happy to be flexible. If you want to change your mind or add anything new, that won’t be a problem as we’ll provide a separate estimate for that.
+We know from experience that fixed-price contracts are rarely beneficial to either of us, as they often limit us to our earliest ideas. The price at the beginning of this contract is based on the length of time you estimate you'll need to accomplish everything we've told you that we want to achieve, but we're happy to be flexible. If we want to change our mind or add anything new, we'll ask you to provide a separate estimate for that.
 
-### Legal stuff 
+You won't do anything unless we ask you to, so you should wait until you have our signoff before making any changes.  Additionally, if you discover that any item will take more time than you'd originally estimated, you'll let us know of that too, in case we want to change direction.
 
-We can’t guarantee that our work will be error-free and so we can’t be liable to you or any third-party for damages, including lost profits, lost savings or other incidental, consequential or special damages, even if you’ve advised us of them. Finally, if any provision of this contract shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this contract and shall not affect the validity and enforceability of any remaining provisions.
- 
-Phew.
+### Legal Stuff
 
-### Copyrights 
+You don't guarantee that your work will be perfectly error-free and so you aren't liable to us or for any third-party for damages, including lost profits, lost savings or other incidental, consequential or special damages, even if we've advised you of them.  You are also not responsible for any user-submitted content or any misuse of the system that other people commit.  Finally, if any provision of this contract shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this contract and shall not affect the validity and enforceability of any remaining provisions.
 
-First, you guarantee that all elements of text, images or other artwork you provide are either owned by your good selves, or that you’ve permission to use them.
+### Copyrights
 
-Then, when your final payment has cleared, copyright will be automatically assigned as follows:
+First, you guarantee that all materials – code, text, images or other artwork – that you provide are either owned by you, or that you've permission to use them. Then, when our payment has cleared, copyright will be automatically assigned as follows:
 
-You’ll own the visual elements that we create for this project. We’ll give you source files and finished files and you should keep them somewhere safe as we’re not required to keep a copy. You own all elements of text, images and data you provided, unless someone else owns them. 
+We will retain the copyright to all the work you perform solely for us, created on a work-for-hire basis in accordance with US and UK law.  However, this work will remain under the original open source license, freely available to the public, in keeping with our organizational goals.
 
-We’ll own the unique combination of these elements that constitutes a complete design and we’ll license its use to you, exclusively and in perpetuity for this project only, unless we agree otherwise.
+Any work performed as part of an existing, larger whole will retain the original copyright – whether that is to you, us, or some other party.
 
-We love to show off our work and share what we’ve learned with other people, so we reserve the right, with your permission, to display and link to your project as part of our portfolio and to write about it on websites, in magazine articles and in books.
+### Payments
 
-### Payments 
-
-We’re sure you understand how important it is as a small business that you pay the invoices that we send you promptly. As we’re also sure you’ll want to stay friends, you agree to stick tight to the following payment schedule.
+We understand how important it is as a small business to pay the invoices that you send us as promptly as possible. As we're also sure you'll want to stay friends, we agree to stick to the following payment schedule.
 
 [Payment schedule]
 
-### But where’s all the horrible small print? 
+### The Small Print
 
-Just like a parking ticket, you can’t transfer this contract to anyone else without our permission. This contract stays in place and need not be renewed. If for some reason one part of this contract becomes invalid or unenforceable, the remaining parts of it remain in place. 
+Just like a parking ticket, you can't transfer this contract to anyone else without our permission. This contract stays in place and need not be renewed. If for some reason one part of this contract becomes invalid or unenforceable, the remaining parts of it remain in place.
 
-Although the language is simple, the intentions are serious and this contract is a legal document under exclusive jurisdiction of [English and Welsh] courts. 
+Although the language is simple, the intentions are serious and this contract is a legal document under exclusive jurisdiction of Washington, D.C., USA courts.
 
-Oh and don’t forget those men with big dogs.
+### The Dotted Line
 
-### The dotted line 
 
-Signed by and on behalf of [company name] 
-Signed by and on behalf of [customer name] 
-Date [date]
+___________________________________________________
+Signed by and on behalf of The OpenGov Foundation
 
-Everyone should sign above and keep a copy for their records.
+
+___________________
+Date
+
+
+___________________________________________________
+Signed by and on behalf of [Name]
+
+
+___________________
+Date
+
+
+*Everyone should sign above and keep a copy for their records.*

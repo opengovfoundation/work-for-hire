@@ -1,5 +1,5 @@
 # work-for-hire
-Fork of ContractKiller template used by The OpenGov Foundation for contract work.
+Fork of ContractKiller template used by The OpenGov Foundation for contract work.  Frequently, we are contracting out work to others, so the terms here are inverted from the original.
 
 This is a modified version of [Andy Clarke](http://stuffandnonsense.co.uk/)'s fantastic plain-English contract, the [ContractKiller (blog post)](http://stuffandnonsense.co.uk/projects/contract-killer/) [(source)](https://gist.github.com/malarkey/4031110).  We've had our lawyers run through it and clean up the language to be a bit more legal.  This is released under the original [CC-BY-SA license](./LICENSE).
 
