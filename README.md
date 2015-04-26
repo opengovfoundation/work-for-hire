@@ -22,7 +22,7 @@ If you don't want to learn Markdown and still want to contribute, feel free to [
 ### The Easy Way ###
 You can edit the file directly using the link below, no account or GitHub experience needed!
 
-[Edit Contract.md](https://editfordc.herokuapp.com/document/ef85fae5-9b8d-4fe6-8cff-8818836a23ac)
+[Edit contract](https://editfordc.herokuapp.com/document/ef85fae5-9b8d-4fe6-8cff-8818836a23ac)
 
 ### The Advanced Way ###
 If you are familiar with GitHub, please fork the repo and send a pull request.
