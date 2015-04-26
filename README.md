@@ -6,6 +6,9 @@ This is a modified version of [Andy Clarke](http://stuffandnonsense.co.uk/)'s fa
 ## Available Files
 We've provided this contract in a variety of formats to suit your needs:
 
+* [Microsoft Word](https://rawgit.com/opengovfoundation/work-for-hire/master/docx/contract.docx)
+* [PDF](https://rawgit.com/opengovfoundation/work-for-hire/master/pdf/contract.pdf)
+* [HTML](https://rawgit.com/opengovfoundation/work-for-hire/master/html/contract.html)
 * [Markdown](https://rawgit.com/opengovfoundation/work-for-hire/master/markdown/contract.md)
 
 ## Contributing
