@@ -1,7 +1,9 @@
 # work-for-hire
 Fork of ContractKiller template used by The OpenGov Foundation for contract work.  Frequently, we are contracting out work to others, so the terms here are inverted from the original.
 
-This is a modified version of [Andy Clarke](http://stuffandnonsense.co.uk/)'s fantastic plain-English contract, the [ContractKiller (blog post)](http://stuffandnonsense.co.uk/projects/contract-killer/) [(source)](https://gist.github.com/malarkey/4031110).  We've had our lawyers run through it and clean up the language to be a bit more legal.  This is released under the original [CC-BY-SA license](./LICENSE).
+This is a modified version of [Andy Clarke](http://stuffandnonsense.co.uk/)'s fantastic plain-English contract, the [ContractKiller (blog post)](http://stuffandnonsense.co.uk/projects/contract-killer/) [(source)](https://gist.github.com/malarkey/4031110).  We've had our lawyers run through it and clean up the language to be a bit more legal.
+
+This document is being released with an open license, meaning it's **absolutely free to use**.  This will allow any person or organization - **for profit or not for profit** - to copy, edit, rewrite, and distribute it at no cost!  This is released under the original [CC-BY-SA license](./LICENSE).
 
 ## Available Files
 We've provided this contract in a variety of formats to suit your needs:
