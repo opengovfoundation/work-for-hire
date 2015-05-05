@@ -5,6 +5,13 @@ This is a modified version of [Andy Clarke](http://stuffandnonsense.co.uk/)'s fa
 
 This document is being released with an open license, meaning it's **absolutely free to use**.  This will allow any person or organization - **for profit or not for profit** - to copy, edit, rewrite, and distribute it at no cost!  This is released under the original [CC-BY-SA license](./LICENSE).
 
+## Disclaimer
+This was created based on United States law, and if you're not in the US the policies here might not be legal wherever you are.
+
+We are not lawyers, and cannot give you legal advice or tell you what is best for your organization.  You should have an actual lawyer review these documents before you use them in the first place.  If you have any questions, ask a lawyer.
+
+We cannot be held responsible for any legal trouble that these documents get you into.  You're using them of your own accord.  We're providing them as-is with no warranty.  Seriously, please don't sue us.
+
 ## Available Files
 We've provided this contract in a variety of formats to suit your needs:
 
